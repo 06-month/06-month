@@ -1,4 +1,4 @@
-# 👋 Jeon Jun
+# Jeon Jun
 
 Computer Science undergraduate at **Hanbat National University**  
 Focused on **deep learning–based visual understanding**, with emphasis on  
