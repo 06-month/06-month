@@ -40,9 +40,3 @@ Focused on **deep learning–based visual understanding**, with emphasis on
 
 ## 📜 Certifications
 - AWS CLF-C02 · NCA · TOEIC 800
-
----
-
-## 📈 GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
