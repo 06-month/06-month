@@ -29,6 +29,7 @@ Focused on **deep learning–based visual understanding**, with emphasis on
 ## 📚 Training
 - AWS Practical Training Program *(Sep. 2025)*  
 - NAVER Cloud Academy 1st Cohort *(Jun.–Jul. 2025)*
+- NAVER Cloud Advanced Training Program *(Jan. 2026)*
 
 ---
 
