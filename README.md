@@ -13,8 +13,16 @@ Focused on **deep learning–based visual understanding**, with emphasis on
 ---
 
 ## 🔬 Research
-- **Artificial Intelligence and Robotics Laboratory (AiR)**  
-  *Undergraduate Research Member* · *Jun. 2025 – Present*  
+
+- **Vision and Learning Lab (UVLL)**, Artificial Intelligence Graduate School (AIGS), **UNIST**  
+  *Research Intern* · *Mar. 2026 – Present*  
+  Advisor: **Prof. Seungryul Baek**  
+  - Deep learning–based **computer vision** research  
+  - Hand pose estimation, visual representation learning
+
+- **Artificial Intelligence and Robotics Laboratory (AiR)**, **Hanbat National University**  
+  *Undergraduate Research Member* · *Jun. 2025 – Feb. 2026*  
+  Advisor: **Prof. Donggeol Choi**  
   - Deep learning–based **computer vision** research  
   - Hand pose estimation, segmentation, visual recognition
 
