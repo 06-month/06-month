@@ -14,7 +14,7 @@ Focused on **deep learning–based visual understanding**, with emphasis on
 
 ## 🔬 Research
 
-- **Vision and Learning Lab (UVLL)**, Artificial Intelligence Graduate School (AIGS), **UNIST**  
+- **UNIST Vision and Learning Lab (UVLL)**, Artificial Intelligence Graduate School (AIGS), **UNIST**  
   *Research Intern* · *Mar. 2026 – Present*  
   Advisor: **Prof. Seungryul Baek**  
   - Deep learning–based **computer vision** research  
