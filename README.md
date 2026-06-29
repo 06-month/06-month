@@ -1,10 +1,10 @@
 # Jun Jeon
-
 Computer Engineering undergraduate at **Hanbat National University**  
 and undergraduate AI research student focused on **3D computer vision**,  
 with emphasis on **3D scene reconstruction, neural rendering, 3D Gaussian Splatting, and Novel View Synthesis**.
 I have built a foundation in **2D visual understanding, semantic segmentation, and visual representation learning**,  
 and I am currently expanding my research toward **robust geometry-aware visual perception** under challenging real-world conditions.
+
 ---
 ## 🎓 Education
 - **Hanbat National University**, B.S. in Computer Engineering  
