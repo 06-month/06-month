@@ -39,32 +39,6 @@ and I am currently expanding my research toward **robust geometry-aware visual p
 - **Geometry-Preserving Synthetic-to-Real Dataset Refinement**  
   Investigating synthetic-to-real dataset refinement methods that reduce appearance-domain gaps while preserving geometric supervision for **3D reconstruction**.
 ---
-## 💻 Selected Projects
-- **3D Low-Light Enhancement for Robust Novel View Synthesis**  
-  *Challenge Study / 3D Reconstruction*  
-  - Low-light robust NVS and 3D Gaussian Splatting
-  - Dataset and baseline analysis for real-world visual degradation
-- **Geometry-Preserving Synthetic-to-Real Dataset Refinement**  
-  *UVLL Research*  
-  - Synthetic-to-real refinement for 3D reconstruction
-  - Appearance-domain gap reduction while preserving geometric annotations
-- **On-Device Human Pose Estimation for Real-Time Exercise Posture Assessment**  
-  *Capstone Project*  
-  - Mobile AI pipeline for exercise coaching
-  - On-device human pose estimation, joint-angle analysis, repetition counting, and posture assessment
-- **Satellite Image Building Area Segmentation**  
-  *Computer Vision Project*  
-  - Semantic segmentation for building-region extraction from satellite imagery
-  - Pixel-level visual understanding and spatial representation learning
-- **Satellite Cloud Semantic Segmentation**  
-  *AiRLab Research*  
-  - Semantic segmentation for satellite cloud regions
-  - Dense prediction under ambiguous boundaries and appearance variations
-- **CLIP2FL-based Federated Learning Research**  
-  *Conference Research*  
-  - Long-tail federated learning based on CLIP2FL and balanced knowledge distillation
-  - Representation robustness under severe data distribution shifts
----
 ## 🏆 Award
 - **1st Place — Open Source Software Utilization Competition**  
   Hanbat National University · *Nov. 2025*  
