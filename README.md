@@ -44,11 +44,6 @@ Since June 2026 I have been independently studying and building toward **general
   Self-taught study of 3DGS, Deformable 3DGS, VGGT, C3G, and C4G, leading to a research proposal on a
   canonical parent–child Gaussian hierarchy that separates global motion reasoning from local surface representation.
 
-- **3D Low-Light Enhancement for Robust Novel View Synthesis** · *Jun. 2026 – Present*
-  Benchmarking COLMAP+3DGS, VGGT-initialized 3DGS, and AnySplat under low-light multi-view input.
-  Empirical finding: appearance degrades far more severely than geometry, with feed-forward models
-  showing the most severe color collapse on raw dark inputs.
-
 ---
 
 ## 📄 Publication
