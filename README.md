@@ -31,7 +31,7 @@ and **AiRLab** (segmentation, representation learning). Everything on the 3DGS s
 | Feed-forward 3D/4D reconstruction — compact query-based and dynamic Gaussian methods | literature study &middot; proposal |
 | On-device human pose estimation for real-time exercise posture assessment | capstone |
 
-Reading in depth: `3DGS` · `Deformable 3DGS` · `VGGT` · `C3G` / `C4G`
+Reading in depth: `3DGS` · `Deformable 3DGS` · `VGGT` / `C4G`
 
 ---
 
@@ -47,7 +47,7 @@ Reading in depth: `3DGS` · `Deformable 3DGS` · `VGGT` · `C3G` / `C4G`
 | Lab | Focus | Period |
 | :--- | :--- | :--- |
 | **UNIST Vision & Learning Lab (UVLL)** <br><sub>Advisor: Prof. Seungryul Baek</sub> | 3D hand pose estimation and 3D hand reconstruction | Mar. – Jun. 2026 |
-| **AiRLab**, Hanbat National University <br><sub>Advisor: Prof. Dong-Geol Choi</sub> | Computer vision, image classification, semantic segmentation | Jun. 2025 – Mar. 2026 |
+| **AI & Robotics Lab (AiRLab)** <br><sub>Advisor: Prof. Dong-Geol Choi</sub> | Computer vision, image classification, semantic segmentation | Jun. 2025 – Mar. 2026 |
 
 ---
 
