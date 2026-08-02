@@ -69,17 +69,18 @@ Reading in depth: `3DGS` · `Deformable 3DGS` · `VGGT` · `C3G` / `C4G`
 
 ---
 
-## Notes
+## Reference wiki
 
-I keep a linked research notebook — 135+ notes on 3D representation, rendering, and the geometry
-behind them, written as I read rather than after.
+A linked wiki over the papers I work through — 135+ LLM-generated entries on 3D representation,
+rendering, and the geometry behind them, which I curate as I read. It is a map of the literature,
+not my own writing.
 
 [3D Gaussian Splatting](https://archive-06.vercel.app/wiki/3d-gaussian-splatting) ·
 [NeRF](https://archive-06.vercel.app/wiki/nerf) ·
 [4D Scaffold-GS](https://archive-06.vercel.app/wiki/4d-scaffold-gs) ·
 [MoSca](https://archive-06.vercel.app/wiki/mosca) ·
 [ATSplat](https://archive-06.vercel.app/wiki/atsplat) ·
-[**all notes →**](https://archive-06.vercel.app/wiki-map)
+[**full map →**](https://archive-06.vercel.app/wiki-map)
 
 ---
 
