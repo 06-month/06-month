@@ -13,7 +13,7 @@
   <a href="mailto:junjeon@edu.hanbat.ac.kr"><img alt="junjeon@edu.hanbat.ac.kr" src="https://img.shields.io/badge/junjeon%40edu.hanbat.ac.kr-63758A?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMi4yNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiA%2BIDxwYXRoIGQ9Im0yMiA3LTguOTkxIDUuNzI3YTIgMiAwIDAgMS0yLjAwOSAwTDIgNyIgLz4gPHJlY3QgeD0iMiIgeT0iNCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiByeD0iMiIgLz4gPC9zdmc%2B"></a>
 </p>
 
-I work on **feed-forward 3D/4D scene reconstruction** — recovering geometry and appearance from
+I study on **feed-forward 3D/4D scene reconstruction** — recovering geometry and appearance from
 unposed multi-view or monocular video in a single pass, without per-scene optimization.
 Most of my attention goes to **dynamic Gaussian representations**, **motion modeling**, and
 **efficient neural rendering**.
