@@ -7,15 +7,15 @@
 
 <p align="center">
   <a href="https://06-month.github.io/home/"><img alt="Homepage" src="https://img.shields.io/badge/Homepage-1A3A5C?style=flat-square&logo=githubpages&logoColor=white"></a>
-  <a href="https://archive-06.vercel.app/"><img alt="Research Archive" src="https://img.shields.io/badge/Research_Archive-2C5F8D?style=flat-square&logo=obsidian&logoColor=white"></a>
-  <a href="https://6month.tistory.com/"><img alt="Paper Reviews" src="https://img.shields.io/badge/Paper_Reviews-4A6D8C?style=flat-square&logo=rss&logoColor=white"></a>
+  <a href="https://archive-06.vercel.app/"><img alt="Blog" src="https://img.shields.io/badge/Blog-2C5F8D?style=flat-square&logo=obsidian&logoColor=white"></a>
+  <a href="https://github.com/06-month/06-month/blob/main/assets/JunJeon_CV.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-4A6D8C?style=flat-square&logo=adobeacrobatreader&logoColor=white"></a>
   <a href="mailto:junjeon@edu.hanbat.ac.kr"><img alt="Email" src="https://img.shields.io/badge/junjeon@edu.hanbat.ac.kr-63758A?style=flat-square&logo=maildotru&logoColor=white"></a>
 </p>
 
 I work on **feed-forward 3D/4D scene reconstruction** — recovering geometry and appearance from
 unposed multi-view or monocular video in a single pass, without per-scene optimization.
-Right now I am most interested in what breaks that promise: dynamic scenes, and inputs degraded
-enough that geometry survives while appearance does not.
+Most of my attention goes to **dynamic Gaussian representations**, **motion modeling**, and
+**efficient neural rendering**.
 
 Fourth-year undergraduate at **Hanbat National University**, graduating Feb. 2027.
 Previously an undergraduate researcher at **UNIST Vision & Learning Lab** (3D hand pose)
@@ -27,10 +27,26 @@ and **AiRLab** (segmentation, representation learning). Everything on the 3DGS s
 
 | ID | TRACK | STATE |
 | :--- | :--- | :--- |
-| `RSCH-01` | Low-light multi-view → clean novel view synthesis. Finding so far: appearance collapses well before geometry does, and feed-forward models collapse hardest | benchmarking |
+| `RSCH-01` | Feed-forward 3D/4D reconstruction — compact query-based and dynamic Gaussian methods | literature study &middot; proposal |
 | `ENGR-01` | On-device human pose estimation for real-time exercise posture assessment | capstone |
 
-Reading in depth: `Ex4DGS` · `Grid4D` · `C3G` / `C4G` · `VGGT` · `AnySplat` · `MoSca`
+Reading in depth: `3DGS` · `Deformable 3DGS` · `VGGT` · `C3G` / `C4G`
+
+---
+
+## Education
+
+| Institution | Program | Period |
+| :--- | :--- | :--- |
+| **Hanbat National University** | B.S. Computer Engineering | Mar. 2025 – Present |
+| **Pai Chai University** | B.S. Coursework, Software Engineering | Mar. 2021 – Dec. 2022 |
+
+## Research experience
+
+| Lab | Focus | Period |
+| :--- | :--- | :--- |
+| **UNIST Vision & Learning Lab (UVLL)** <br><sub>Advisor: Prof. Seungryul Baek</sub> | 3D hand pose estimation and 3D hand reconstruction | Mar. – Jun. 2026 |
+| **AiRLab**, Hanbat National University <br><sub>Advisor: Prof. Dong-Geol Choi</sub> | Computer vision, image classification, semantic segmentation | Jun. 2025 – Mar. 2026 |
 
 ---
 
@@ -42,7 +58,7 @@ Reading in depth: `Ex4DGS` · `Grid4D` · `C3G` / `C4G` · `VGGT` · `AnySplat` 
 | [**Satellite-Cloud-Semantic-Segmentation**](https://github.com/06-month/Satellite-Cloud-Semantic-Segmentation) | Three-class cloud segmentation from satellite imagery — thick cloud, thin cloud, cloud shadow | PyTorch, OpenCV |
 | [**satellite-building-segmentation**](https://github.com/06-month/satellite-building-segmentation) | Building-footprint segmentation from aerial imagery | PyTorch |
 | [**Offline-to-Online-RL**](https://github.com/06-month/Offline-to-Online-Reinforcement-Learning) | Online fine-tuning of offline-pretrained RL policies | PyTorch |
-| [**Budgetly**](https://github.com/06-month/HBNU-SWUNIV-ossw-competition25-yee) | OCR-based personal finance web app. 1st place, HBNU Open Source Competition 2025 | Python, OCR |
+| [**Budgetly**](https://github.com/06-month/HBNU-SWUNIV-ossw-competition25-yee) | OCR-based personal finance web app. 1st place, HBNU Open Source Software Utilization Competition 2025 | Python, OCR |
 
 ---
 
@@ -74,16 +90,22 @@ behind them, written as I read rather than after.
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-1A3A5C?style=flat-square&logo=pytorch&logoColor=white">
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-1A3A5C?style=flat-square&logo=numpy&logoColor=white">
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-1A3A5C?style=flat-square&logo=opencv&logoColor=white">
-  <img alt="CUDA" src="https://img.shields.io/badge/CUDA-1A3A5C?style=flat-square&logo=nvidia&logoColor=white">
   <br>
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-2C5F8D?style=flat-square&logo=cplusplus&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2C5F8D?style=flat-square&logo=docker&logoColor=white">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-2C5F8D?style=flat-square&logo=linux&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-2C5F8D?style=flat-square&logo=git&logoColor=white">
-  <img alt="Neovim" src="https://img.shields.io/badge/Vim-2C5F8D?style=flat-square&logo=vim&logoColor=white">
+  <img alt="C/C++" src="https://img.shields.io/badge/C%2FC%2B%2B-2C5F8D?style=flat-square&logo=cplusplus&logoColor=white">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-2C5F8D?style=flat-square&logo=csharp&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-2C5F8D?style=flat-square&logo=openjdk&logoColor=white">
+  <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-2C5F8D?style=flat-square&logo=mathworks&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-2C5F8D?style=flat-square&logo=postgresql&logoColor=white">
+  <br>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-4A6D8C?style=flat-square&logo=docker&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-4A6D8C?style=flat-square&logo=git&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-4A6D8C?style=flat-square&logo=linux&logoColor=white">
+  <img alt="Vim" src="https://img.shields.io/badge/Vim-4A6D8C?style=flat-square&logo=vim&logoColor=white">
 </p>
 
 <sub>Working knowledge: 3D Gaussian Splatting · novel view synthesis · multi-view and camera geometry · COLMAP · semantic segmentation</sub>
+
+<sub>AWS Certified Cloud Practitioner (CLF-C02) · Naver Cloud Platform Certified Associate (NCA) · TOEIC 800</sub>
 
 ---
 
@@ -93,18 +115,4 @@ behind them, written as I read rather than after.
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/06-month/06-month/output/snake.svg">
     <img alt="contribution graph" src="https://raw.githubusercontent.com/06-month/06-month/output/snake.svg" width="100%">
   </picture>
-</p>
-
----
-
-<!-- Optional. Delete this whole block if the numbers ever read thinner than the work does. -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=06-month&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=6FA8DC&text_color=8B98A5&card_width=340">
-    <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=06-month&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=1A3A5C&text_color=63758A&card_width=340">
-  </picture>
-</p>
-
-<p align="center">
-  <sub><a href="https://06-month.github.io/home/">Full CV and publication list →</a></sub>
 </p>
