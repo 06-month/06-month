@@ -53,13 +53,13 @@ Reading in depth: `3DGS` · `Deformable 3DGS` · `VGGT` · `C3G` / `C4G`
 
 ## Projects
 
-| Repository | What it is | Stack |
-| :--- | :--- | :--- |
-| [**CLIP2FL_BKD**](https://github.com/06-month/CLIP2FL_BKD) | Balanced knowledge distillation on top of CLIP2FL for long-tail federated learning. Became a KICS 2026 paper | PyTorch |
-| [**Satellite-Cloud-Semantic-Segmentation**](https://github.com/06-month/Satellite-Cloud-Semantic-Segmentation) | Three-class cloud segmentation from satellite imagery — thick cloud, thin cloud, cloud shadow | PyTorch, OpenCV |
-| [**satellite-building-segmentation**](https://github.com/06-month/satellite-building-segmentation) | Building-footprint segmentation from aerial imagery | PyTorch |
-| [**Offline-to-Online-RL**](https://github.com/06-month/Offline-to-Online-Reinforcement-Learning) | Online fine-tuning of offline-pretrained RL policies | PyTorch |
-| [**Budgetly**](https://github.com/06-month/HBNU-SWUNIV-ossw-competition25-yee) | OCR-based personal finance web app. 1st place, HBNU Open Source Software Utilization Competition 2025 | Python, OCR |
+| Repository | What it is |
+| :--- | :--- |
+| [**CLIP2FL_BKD**](https://github.com/06-month/CLIP2FL_BKD) | Balanced knowledge distillation on top of CLIP2FL for long-tail federated learning. Became a KICS 2026 paper |
+| [**Satellite-Cloud-Semantic-Segmentation**](https://github.com/06-month/Satellite-Cloud-Semantic-Segmentation) | Three-class cloud segmentation from satellite imagery — thick cloud, thin cloud, cloud shadow |
+| [**satellite-building-segmentation**](https://github.com/06-month/satellite-building-segmentation) | Building-footprint segmentation from aerial imagery |
+| [**Offline-to-Online-RL**](https://github.com/06-month/Offline-to-Online-Reinforcement-Learning) | Online fine-tuning of offline-pretrained RL policies |
+| [**Budgetly**](https://github.com/06-month/HBNU-SWUNIV-ossw-competition25-yee) | OCR-based personal finance web app. 1st place, HBNU Open Source Software Utilization Competition 2025 |
 
 ---
 
@@ -83,7 +83,7 @@ Read-throughs I write myself, working from the paper rather than summarising it.
 
 ---
 
-## Reference wiki
+## Wiki
 
 A linked wiki over the papers I work through — 135+ LLM-generated entries on 3D representation,
 rendering, and the geometry behind them, which I curate as I read. It is a map of the literature,
@@ -98,6 +98,32 @@ not my own writing.
 
 ---
 
+
+## Stack
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-1A3A5C?style=flat-square&logo=python&logoColor=white">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-1A3A5C?style=flat-square&logo=pytorch&logoColor=white">
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-1A3A5C?style=flat-square&logo=numpy&logoColor=white">
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-1A3A5C?style=flat-square&logo=opencv&logoColor=white">
+  <br>
+  <img alt="C/C++" src="https://img.shields.io/badge/C%2FC%2B%2B-2C5F8D?style=flat-square&logo=cplusplus&logoColor=white">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-2C5F8D?style=flat-square&logo=dotnet&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-2C5F8D?style=flat-square&logo=openjdk&logoColor=white">
+  <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-2C5F8D?style=flat-square">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-2C5F8D?style=flat-square&logo=postgresql&logoColor=white">
+  <br>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-4A6D8C?style=flat-square&logo=docker&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-4A6D8C?style=flat-square&logo=git&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-4A6D8C?style=flat-square&logo=linux&logoColor=white">
+  <img alt="Vim" src="https://img.shields.io/badge/Vim-4A6D8C?style=flat-square&logo=vim&logoColor=white">
+</p>
+
+<sub>Working knowledge: 3D Gaussian Splatting · novel view synthesis · multi-view and camera geometry · COLMAP · semantic segmentation</sub>
+
+<sub>AWS Certified Cloud Practitioner (CLF-C02) · Naver Cloud Platform Certified Associate (NCA) · TOEIC 800</sub>
+
+---
 
 <p align="center">
   <picture>
