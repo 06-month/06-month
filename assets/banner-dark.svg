@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Jun Jeon — feed-forward 3D/4D reconstruction and novel view synthesis">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Jun Jeon — feed-forward 3D/4D reconstruction and dynamic Gaussian representations">
   <defs>
     <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0.00" stop-color="#0D1117" stop-opacity="1"/>
@@ -354,17 +354,17 @@
 
     <!-- eyebrow -->
     <text x="64" y="52" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="3.2" fill="#8B98A5">HANBAT NATIONAL UNIVERSITY &#183; COMPUTER ENGINEERING</text>
-    <text x="1136" y="52" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="3.2" fill="#8B98A5">B.S. 2027</text>
+    <text x="1136" y="52" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="3.2" fill="#8B98A5">UNDERGRADUATE</text>
 
     <!-- name -->
     <text x="62" y="152" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="66" font-weight="700" letter-spacing="4" fill="#E6EDF3">JUN JEON</text>
-    <text x="64" y="186" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" letter-spacing="0.6" fill="#6FA8DC">feed-forward 3D/4D reconstruction &#183; novel view synthesis</text>
+    <text x="64" y="186" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" letter-spacing="0.6" fill="#6FA8DC">feed-forward 3D/4D reconstruction &#183; dynamic Gaussians</text>
 
     <!-- prompt line -->
-    <text x="64" y="222" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14" fill="#8B98A5">&#62; geometry and appearance, separated<tspan fill="#6FA8DC">_</tspan></text>
+    <text x="64" y="222" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14" fill="#8B98A5">&#62; VILAB, Yonsei University &#183; Prof. Youngjung Uh<tspan fill="#6FA8DC">_</tspan></text>
 
     <!-- footer meta -->
-    <text x="64" y="268" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" letter-spacing="2.4" fill="#8B98A5">3DGS &#183; NVS &#183; MULTI-VIEW GEOMETRY &#183; NEURAL RENDERING</text>
+    <text x="64" y="268" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" letter-spacing="2.4" fill="#8B98A5">DYNAMIC GAUSSIANS &#183; MOTION MODELING &#183; NEURAL RENDERING</text>
     <text x="1136" y="268" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" letter-spacing="2.4" fill="#8B98A5">06-month</text>
   </g>
 </svg>

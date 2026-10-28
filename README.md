@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img alt="Jun Jeon — feed-forward 3D/4D reconstruction, novel view synthesis" src="assets/banner-light.svg" width="100%">
+    <img alt="Jun Jeon — feed-forward 3D/4D reconstruction, dynamic Gaussian representations" src="assets/banner-light.svg" width="100%">
   </picture>
 </p>
 
@@ -13,14 +13,15 @@
   <a href="mailto:junjeon@edu.hanbat.ac.kr"><img alt="junjeon@edu.hanbat.ac.kr" src="https://img.shields.io/badge/junjeon%40edu.hanbat.ac.kr-63758A?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMi4yNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiA%2BIDxwYXRoIGQ9Im0yMiA3LTguOTkxIDUuNzI3YTIgMiAwIDAgMS0yLjAwOSAwTDIgNyIgLz4gPHJlY3QgeD0iMiIgeT0iNCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiByeD0iMiIgLz4gPC9zdmc%2B"></a>
 </p>
 
-I study on **feed-forward 3D/4D scene reconstruction** — recovering geometry and appearance from
-unposed multi-view or monocular video in a single pass, without per-scene optimization.
-Most of my attention goes to **dynamic Gaussian representations**, **motion modeling**, and
-**efficient neural rendering**.
+I work on **feed-forward 3D/4D scene reconstruction**, with a focus on **dynamic Gaussian
+representations**, **motion modeling**, and **efficient neural rendering**. My current research
+investigates online dynamic scene reconstruction from monocular RGB video through persistent
+4D Gaussian correction.
 
-Fourth-year undergraduate at **Hanbat National University**, graduating Feb. 2027.
-Previously an undergraduate researcher at **UNIST Vision & Learning Lab** (3D hand pose)
-and **AiRLab** (segmentation, representation learning). Everything on the 3DGS side is self-taught.
+Computer Engineering undergraduate at **Hanbat National University** and undergraduate researcher
+at **Visual Intelligence Lab (VILAB), Yonsei University**, advised by **Prof. Youngjung Uh**
+(Sep. 2026 – Present). Previously at **UNIST Vision & Learning Lab** (3D hand pose and reconstruction)
+and **AiRLab** (computer vision, image classification, and semantic segmentation).
 
 ---
 
@@ -28,36 +29,38 @@ and **AiRLab** (segmentation, representation learning). Everything on the 3DGS s
 
 | TRACK | STATE |
 | :--- | :--- |
-| Feed-forward 3D/4D reconstruction — compact query-based and dynamic Gaussian methods | literature study &middot; proposal |
-| On-device human pose estimation for real-time exercise posture assessment | capstone |
-
-Reading in depth: `3DGS` · `Deformable 3DGS` · `VGGT` / `C4G`
+| **Online Dynamic Scene Reconstruction via Persistent 4D Gaussian Correction** — refining persistent query and Gaussian representations with sequential monocular RGB observations | Ongoing research · Sep. 2026 – Present |
+| **On-Device Human Pose Estimation for Real-Time Exercise Posture Assessment** — leading the AI pipeline; exercise-specific feedback from pose keypoints and joint-angle features | Capstone · Mar. 2026 – Present |
 
 ---
 
 ## Education
 
-| Institution | Program | Period |
-| :--- | :--- | :--- |
-| **Hanbat National University** | B.S. Computer Engineering | Mar. 2025 – Present |
-| **Pai Chai University** | B.S. Coursework, Software Engineering | Mar. 2021 – Dec. 2022 |
+| Institution | Program | Period | GPA / Major GPA |
+| :--- | :--- | :--- | :--- |
+| **Hanbat National University** | B.S. Computer Engineering | Mar. 2025 – Present | 3.85 / 4.5 · 3.82 / 4.5 |
+| **Pai Chai University** | B.S. Coursework, Software Engineering | Mar. 2021 – Dec. 2022 | 4.14 / 4.5 · 4.32 / 4.5 |
+
+**Cumulative GPA (both institutions): 4.02 / 4.5 · Major GPA: 4.07 / 4.5**
 
 ## Research experience
 
 | Lab | Focus | Period |
 | :--- | :--- | :--- |
-| **UNIST Vision & Learning Lab (UVLL)** <br><sub>Advisor: Prof. Seungryul Baek</sub> | 3D hand pose estimation and 3D hand reconstruction | Mar. – Jun. 2026 |
-| **AI & Robotics Lab (AiRLab)** <br><sub>Advisor: Prof. Dong-Geol Choi</sub> | Computer vision, image classification, semantic segmentation | Jun. 2025 – Mar. 2026 |
+| **Visual Intelligence Lab (VILAB), Yonsei University** <br><sub>Advisor: Prof. Youngjung Uh</sub> | Feed-forward 3D/4D scene reconstruction | Sep. 2026 – Present |
+| **UNIST Vision & Learning Lab (UVLL)** <br><sub>Advisor: Prof. Seungryul Baek</sub> | 3D hand pose estimation and 3D hand reconstruction | Mar. 2026 – Jun. 2026 |
+| **Artificial Intelligence and Robotics Laboratory (AiRLab), Hanbat National University** <br><sub>Advisor: Prof. Dong-Geol Choi</sub> | Computer vision, image classification, semantic segmentation | Jun. 2025 – Mar. 2026 |
 
 ---
 
 ## Projects
 
-| Repository | What it is |
+| Project | What it is |
 | :--- | :--- |
-| [**CLIP2FL_BKD**](https://github.com/06-month/CLIP2FL_BKD) | Balanced knowledge distillation on top of CLIP2FL for long-tail federated learning. Became a KICS 2026 paper |
-| [**Satellite-Cloud-Semantic-Segmentation**](https://github.com/06-month/Satellite-Cloud-Semantic-Segmentation) | Three-class cloud segmentation from satellite imagery — thick cloud, thin cloud, cloud shadow |
-| [**satellite-building-segmentation**](https://github.com/06-month/satellite-building-segmentation) | Building-footprint segmentation from aerial imagery |
+| **Exercise3D Multi-View Dataset Pipeline** <br><sub>Aug. 2026 – Sep. 2026</sub> | Completed a triple-camera exercise-video pipeline for camera poses, 3D joints, and parametric body fits using audio/PTS synchronization, fixed-camera bundle adjustment, and multi-view triangulation. **26 sequences / 78 videos / 65,595 frames**, with per-frame quality validation |
+| [**satellite-building-segmentation**](https://github.com/06-month/satellite-building-segmentation) <br><sub>Jan. 2026 – Feb. 2026</sub> | Building-region semantic segmentation from satellite imagery; AiRLab coding seminar |
+| [**CLIP2FL_BKD**](https://github.com/06-month/CLIP2FL_BKD) <br><sub>Oct. 2025 – Dec. 2025</sub> | Balanced knowledge distillation on top of CLIP2FL for long-tail federated learning. Resulted in a KICS Winter Conference 2026 publication |
+| [**Satellite-Cloud-Semantic-Segmentation**](https://github.com/06-month/Satellite-Cloud-Semantic-Segmentation) <br><sub>Nov. 2025 – Dec. 2025</sub> | Three-class cloud segmentation from satellite imagery — thick cloud, thin cloud, cloud shadow |
 | [**Offline-to-Online-RL**](https://github.com/06-month/Offline-to-Online-Reinforcement-Learning) | Online fine-tuning of offline-pretrained RL policies |
 | [**Budgetly**](https://github.com/06-month/HBNU-SWUNIV-ossw-competition25-yee) | OCR-based personal finance web app. 1st place, HBNU Open Source Software Utilization Competition 2025 |
 
@@ -80,6 +83,12 @@ Read-throughs I write myself, working from the paper rather than summarising it.
 
 **Balanced Knowledge Distillation (BKD) for Long-Tail Federated Learning Based on CLIP2FL**
 <samp>Jun Jeon</samp>, Minu Baek, Sangkeum Lee<sup>†</sup> — *KICS Winter Conference, 2026*
+
+## Awards & Honors
+
+**1st Place — Open Source Software Utilization Competition**, Hanbat National University · Nov. 2025
+
+Budgetly, an OCR-based financial management web application.
 
 ---
 
@@ -122,6 +131,9 @@ not my own writing.
 <sub>Working knowledge: 3D Gaussian Splatting · novel view synthesis · multi-view and camera geometry · COLMAP · semantic segmentation</sub>
 
 <sub>AWS Certified Cloud Practitioner (CLF-C02) · Naver Cloud Platform Certified Associate (NCA) · TOEIC 800</sub>
+
+**Relevant coursework:** Artificial Intelligence (A+) · Computer Vision (A+) ·
+Reinforcement Learning (A+) · Metaverse and Digital Space Theory (A+)
 
 ---
 
